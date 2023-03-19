@@ -12,3 +12,6 @@ If player want to start the game all over again, he/she can click on New Game, a
 ![Screenshot (24)](https://user-images.githubusercontent.com/119599057/226183470-8deda207-16a5-4bb9-a418-bdc6e5801609.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/119599057/226183486-433a35e5-deea-4e2a-a207-0b49a9407ab8.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/119599057/226183520-0d0ca79b-0207-45a8-ac59-0d3f3266047a.png)
+
+What Else can Be Done:
+This is a single player game, further we can take a step up, so that two players can play it and also series of the game can be recorded as the record, even highlighting, BEST SCORE so far, so that people can find it more engaging and more brainstorming can be done.
