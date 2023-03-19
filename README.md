@@ -7,6 +7,7 @@ In this there are 12 cards, every two cards has same picture on it, all are kept
 If player want to start the game all over again, he/she can click on New Game, all the cards are again shuffled and game can again be played from start which new positions of the card.
 
 What Else can Be Done:
+
 This is a single player game, further we can take a step up, so that two players can play it and also series of the game can be recorded as the record, even highlighting, BEST SCORE so far, so that people can find it more engaging and more brainstorming can be done.
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/119599057/226183288-d21b587c-1dc6-46be-b3e9-23081d07e94e.png)
