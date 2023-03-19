@@ -7,3 +7,8 @@ In this there are 12 cards, every two cards has same picture on it, all are kept
 If player want to start the game all over again, he/she can click on New Game, all the cards are again shuffled and game can again be played from start which new positions of the card.
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/119599057/226183288-d21b587c-1dc6-46be-b3e9-23081d07e94e.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/119599057/226183417-09550730-e27d-4f8d-8244-af67330f5c7b.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/119599057/226183446-52314c80-004f-4bff-9022-aa968c7785f0.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/119599057/226183470-8deda207-16a5-4bb9-a418-bdc6e5801609.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/119599057/226183486-433a35e5-deea-4e2a-a207-0b49a9407ab8.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/119599057/226183520-0d0ca79b-0207-45a8-ac59-0d3f3266047a.png)
